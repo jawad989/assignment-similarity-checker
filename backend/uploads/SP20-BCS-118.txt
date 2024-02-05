@@ -1,0 +1,6 @@
+def compute_square(x):
+    return x * x
+
+value = 7
+output = compute_square(value)
+print("The square of", value, "equals", output)

@@ -1,0 +1,11 @@
+def compute_square(x):
+    return x * x
+
+def calculate_cube(y):
+    return y * y * y
+
+val = 3
+output_square = compute_square(val)
+output_cube = calculate_cube(val)
+print("The square of", val, "is", output_square)
+print("The cube of", val, "is", output_cube)
