@@ -1,6 +1,0 @@
-def find_square(number):
-    return number ** 2
-
-input_value = 6
-squared = find_square(input_value)
-print("The square of", input_value, "is", squared)

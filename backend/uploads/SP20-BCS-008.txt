@@ -1,6 +1,0 @@
-def calculate_cubed(n):
-    return n * n * n
-
-input_num = 4
-result_cubed = calculate_cubed(input_num)
-print("The cube of", input_num, "is", result_cubed)

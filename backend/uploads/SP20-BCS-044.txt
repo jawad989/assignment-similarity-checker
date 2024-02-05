@@ -1,6 +1,0 @@
-def calculate_square(n):
-    return n * n
-
-num = 5
-result = calculate_square(num)
-print("The square of", num, "is", result)
